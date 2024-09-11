@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uslagela.github.io/sitemap.html.gz
+Sitemap: https://uslagela.github.io/app/sitemap.html.gz
+Sitemap: https://uslagela.github.io/assets/sitemap.html.gz
+Sitemap: https://uslagela.github.io/css/sitemap.html.gz
+Sitemap: https://uslagela.github.io/includes/sitemap.html.gz
+Sitemap: https://uslagela.github.io/item/sitemap.html.gz
+Sitemap: https://uslagela.github.io/src/sitemap.html.gz
